@@ -1,0 +1,14 @@
+body { 
+	font-size: 150%; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #333366;
+}
+
+table{
+	border-collapse: collapse;
+	text-align: center;
+}
+td{
+	
+	border: 1px solid black;
+}
